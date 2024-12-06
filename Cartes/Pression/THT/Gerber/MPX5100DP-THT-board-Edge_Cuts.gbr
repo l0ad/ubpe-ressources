@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
+%TF.CreationDate,2023-12-11T15:29:27+01:00*%
+%TF.ProjectId,MPX5100DP-THT-board,4d505835-3130-4304-9450-2d5448542d62,1.2*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.9) date 2023-12-11 15:29:27*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X39624000Y-24257000D02*
+X92710000Y-24257000D01*
+X92710000Y-61468000D01*
+X39624000Y-61468000D01*
+X39624000Y-24257000D01*
+M02*

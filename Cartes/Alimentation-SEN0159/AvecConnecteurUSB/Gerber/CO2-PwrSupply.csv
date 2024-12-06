@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J3";"JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical";1;"CO2";;;
+2;"D2,D1";"D_DO-41_SOD81_P10.16mm_Horizontal";2;"1N4004";;;
+3;"J2";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"Kikiwi";;;
+4;"U1";"TO-220-3_Horizontal_TabDown";1;"LM2940";;;
+5;"C2";"C_Rect_L7.0mm_W6.0mm_P5.00mm";1;"470nF";;;
+6;"J4";"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal";1;"Ext. Pwr";;;
+7;"C1";"CP_Radial_D5.0mm_P2.50mm";1;"22µF";;;
+8;"J1";"USB_Micro-B_Molex_47346-0001";1;"USB_B_Micro";;;
